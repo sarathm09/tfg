@@ -56,12 +56,15 @@ export default function Home({ players = [{
 
   return (
     <main className={styles.main}>
-      <div className={styles.description}>
+      <div className={styles.description} onClick={() => nextButtonClick(
+          setCurrentQuestion, currentPlayerIndex, setCurrentPlayerIndex, players, setSkips)}>
         {currentQuestion?.question || 'loading'}
 
-        <button className={styles.button} onClick={() => nextButtonClick(setCurrentQuestion, currentPlayerIndex, setCurrentPlayerIndex, players, setSkips)}>
+        {/* <button className={styles.button} 
+        onClick={() => nextButtonClick(
+          setCurrentQuestion, currentPlayerIndex, setCurrentPlayerIndex, players, setSkips)}>
           Next
-        </button>
+        </button> */}
       </div>
     </main>
   )

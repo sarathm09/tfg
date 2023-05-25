@@ -23,8 +23,9 @@
 
 .description {
   background-color: white;
-  height: 50vh;
-  width: 80vw;
+  min-height: 70vh;
+  max-height: 90vh;
+  width: 90vw;
   justify-content: center;
   align-items: center;
   justify-content: space-around;
@@ -32,10 +33,11 @@
   flex-direction: column;
   display: flex;
   color: black;
-  font-size: xx-large;
+  font-size: x-large;
   text-align: center;
+  font-family: pacifico;
   border-radius: 10px;
-  padding: 100px;
+  padding: 1vw;
   box-shadow: -1px 0px 38px 14px rgba(46, 46, 46, 0.938);
 -webkit-box-shadow: -1px 0px 38px 14px rgba(58, 58, 58, 0.881);
 -moz-box-shadow: -1px 0px 38px 14px rgba(52, 52, 52, 0.92);
@@ -43,6 +45,12 @@
 
 .button {
   width: 20vw;
-  height: 50px;
+  height: 30px;
   cursor: pointer;
+  padding-top: 50px;
+}
+
+@font-face {
+  font-family: pacifico;
+  src: url(pacifico.ttf);
 }
