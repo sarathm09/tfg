@@ -2029,5 +2029,21 @@
       "naughty"
     ],
     "p": 2
+  },
+  {
+    "_": "sv456q-_l4564OetVH_tt",
+    "q": "Which friend has given you the cutest nickname?",
+    "t": [
+      "friend",
+    ],
+    "p": 2
+  },
+  {
+    "_": "svJbq-_lh0hj4O4g56_tt",
+    "q": "What is that one thig you wouldn't sacrifice even if it meant losing your best friend?",
+    "t": [
+      "friend"
+    ],
+    "p": 2
   }
 ]
