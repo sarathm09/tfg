@@ -1,0 +1,2033 @@
+[
+  {
+    "_": "w6oLTq0zi-dtUs8mc7o5q",
+    "q": "Name the friend who had gifted the birthday present that you love the most?",
+    "t": [
+      "friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "Dixf45Xm4xec9Ky3Gahap",
+    "q": "Who is the one friend you can go to to discuss any problem, whether personal or work?",
+    "t": [
+      "friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "4__38MVVyJJo470kG1YxN",
+    "q": "Who is the one friend you can go to to discuss your most deepest or personal thoughts?",
+    "t": [
+      "friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "gzvgi95pjE98njjXtxHL2",
+    "q": "If you had to spend and entire night deep inside a forest, who would you call to be with you?",
+    "t": [
+      "friend"
+    ],
+    "p": 2
+  },
+  {
+    "_": "5044L4RVCFEIJZILvA5zv",
+    "q": "If you had to spend and entire night lying on a beach staring at the night sky full of stars, who would you call to be with you?",
+    "t": [
+      "friend"
+    ],
+    "p": 2
+  },
+  {
+    "_": "5dUmPiRzuZxq8-CLvjmHH",
+    "q": "Do you have a friend that you were really annoyed with initially, but now you can't live without?",
+    "t": [
+      "friend"
+    ],
+    "p": 2
+  },
+  {
+    "_": "8n1rIzMfxKNNy09VDCHOV",
+    "q": "Do you have a friend for who you'd be willing to do anything to maintain the friendship with them?",
+    "t": [
+      "friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "REtYaIeZ9jqjRIpqL9tSo",
+    "q": "If you had a choice to go on a trip to your dream destination but had to choose between your friend or your partner, who would you choose?",
+    "t": [
+      "friend",
+      "partner",
+      "partner-vs-friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "qeRaTzqKUM_Gn-7h0F02D",
+    "q": "If you had to spend an entire night locked in a room with a friend of the opposite gender, who would you choose?",
+    "t": [
+      "friend",
+      "cross-gender"
+    ],
+    "p": 1
+  },
+  {
+    "_": "YMhJ6TvU-pPtTFKGdtjic",
+    "q": "Do you have a friend who would do anything to see the smile on your face?",
+    "t": [
+      "friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "qjAhHMuaXmAN3EdDOP648",
+    "q": "Name a friend with who you can talk to for hours and hours on a video call?",
+    "t": [
+      "friend"
+    ],
+    "p": 2
+  },
+  {
+    "_": "3HRGSIOFNvPBTn8xKRmo9",
+    "q": "Name a friend with who you can spend hours just staring at each other?",
+    "t": [
+      "friend"
+    ],
+    "p": 2
+  },
+  {
+    "_": "DzjXHDDht32ypBkCB3D6v",
+    "q": "If you had to annoy one friend for the rest of your life, who would you choose?",
+    "t": [
+      "friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "-MAMbyTMUTFwBmN-_m7kx",
+    "q": "Have you ever felt guilty of not giving enough attention to your friend?",
+    "t": [
+      "friend"
+    ],
+    "p": 2
+  },
+  {
+    "_": "zo9hxo9_UrcJkc9Hbxh-s",
+    "q": "Name the friend that you miss the most when you are low",
+    "t": [
+      "friend"
+    ],
+    "p": 2
+  },
+  {
+    "_": "uMHoaTSLERjgGrVTbGVnM",
+    "q": "If you did something mischievous and something went wrong, who would be the first person you'd call for help?",
+    "t": [
+      "friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "CNZerr9ULMiwsBOKxNARD",
+    "q": "Name the friend you are scared of losing",
+    "t": [
+      "friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "i-TIxoy7YM_ALgYJCsH3b",
+    "q": "Have you hidden any secret from your friend that might hurt them?",
+    "t": [
+      "friend",
+      "secret"
+    ],
+    "p": 1
+  },
+  {
+    "_": "nki8h7SWJGMa3oMXe_n7Z",
+    "q": "Have you ever lied to your best friend thinking it might hurt them?",
+    "t": [
+      "friend",
+      "best-friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "-TIxoy7YMGMa3WJGM_MXe",
+    "q": "Have you ever had any crush on any of your friends?",
+    "t": [
+      "friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "NZerr9MXe_nbGMXeibT5",
+    "q": "If you had some doubt about s*x, which friend (opposite gender, not partner) would you be okay to ask about it?",
+    "t": [
+      "friend",
+      "naughty",
+      "cross-gender"
+    ],
+    "p": 2
+  },
+  {
+    "_": "4i-vEiLmp7NBkN2CdR07J",
+    "q": "Share a situation where your friend really wanted your help, but you were helpless about it and regret not being able to help.",
+    "t": [
+      "friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "xfAb6UdpCR84X2vXnCaeJ",
+    "q": "Name a friend who you love a lot, but can't choose as partner",
+    "t": [
+      "friend"
+    ],
+    "p": 2
+  },
+  {
+    "_": "N7rQB-Fds1E6heyZRlkb-",
+    "q": "Who was your best friend in elementary school?",
+    "t": [
+      "friend",
+      "best-friend"
+    ],
+    "p": 2
+  },
+  {
+    "_": "7RP0K-JlcisHA120cCfb1",
+    "q": "What's the funniest memory you have with your best friend?",
+    "t": [
+      "friend",
+      "best-friend"
+    ],
+    "p": 2
+  },
+  {
+    "_": "2XHDQYFeWxS4ZyDrNFlJE",
+    "q": "What's the best advice your best friend has ever given you?",
+    "t": [
+      "friend",
+      "best-friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "yX7ku9rKS91woyM0ct4XJ",
+    "q": "What's the most ridiculous thing you and your friend have done together?",
+    "t": [
+      "friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "G_v_i9E-8TpL_kb5zP3Us",
+    "q": "Who is the longest-standing friend you have and how did you meet?",
+    "t": [
+      "friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "wxFdNzlmnU6PIZfALTrdc",
+    "q": "Is there someone for who you've felt that you both should have met much earlier?",
+    "t": [
+      "friend"
+    ],
+    "p": 2
+  },
+  {
+    "_": "WTCbJ4QNbEw4QMSgXW_xo",
+    "q": "What do you and your best friend do together when you're not hanging out?",
+    "t": [
+      "friend",
+      "best-friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "ZsPakiidrO8z23kHXXCfW",
+    "q": "What is something that your best friend is really good at?",
+    "t": [
+      "friend",
+      "best-friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "RM2btBuD-5DK3TJTV7fCQ",
+    "q": "What's the most embarrassing thing you've done in front of your best friend?",
+    "t": [
+      "friend",
+      "embarrassing",
+      "best-friend",
+      "naughty"
+    ],
+    "p": 1
+  },
+  {
+    "_": "TyVSoh7M3DhA50f6R8HXu",
+    "q": "What's the most embarrassing thing you've done for your friend of opposite gender?",
+    "t": [
+      "friend",
+      "embarrassing",
+      "cross-gender"
+    ],
+    "p": 1
+  },
+  {
+    "_": "KJG-&TBUGlivhfR6R0GNn",
+    "q": "What's the most naughty thing you've done with a friend of opposite gender?",
+    "t": [
+      "friend",
+      "naughty",
+      "cross-gender"
+    ],
+    "p": 2
+  },
+  {
+    "_": "HAdnzyQrX_Vm0-whfAS56",
+    "q": "What's the weirdest thing your friend of opposite gender has ever said or done?",
+    "t": [
+      "friend",
+      "cross-gender"
+    ],
+    "p": 1
+  },
+  {
+    "_": "K9Y7PY3TbGekeibYdk9KX",
+    "q": "What is one thing that you would never tell your best friend?",
+    "t": [
+      "friend",
+      "secret",
+      "best-friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "WrZ7jgpChfwcTKdZP0fhk",
+    "q": "What's the best gift your best friend has ever given you?",
+    "t": [
+      "friend",
+      "best-friend"
+    ],
+    "p": 2
+  },
+  {
+    "_": "2X2VuX8_VtgW-wXKbXQsj",
+    "q": "What's the most important lesson you've learned from your best friend?",
+    "t": [
+      "friend",
+      "best-friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "rL5x_xaaplszEcyxyhj1f",
+    "q": "Who is your best friend's celebrity crush?",
+    "t": [
+      "friend",
+      "best-friend"
+    ],
+    "p": 2
+  },
+  {
+    "_": "5da-urEYDGErgOJmIIdvS",
+    "q": "What's the most adventurous thing you've done with your best friend?",
+    "t": [
+      "friend",
+      "best-friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "6_-5laasBgTPbSEWqHGaY",
+    "q": "What's the biggest argument you and your best friend have ever had?",
+    "t": [
+      "friend",
+      "best-friend"
+    ],
+    "p": 2
+  },
+  {
+    "_": "aQW6jRw9wH7AllLVhlm8q",
+    "q": "What's the most surprising thing you've learned about your best friend?",
+    "t": [
+      "friend",
+      "best-friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "3vyZDO0JcjAKpHVoJm_wq",
+    "q": "What's your best friend's favorite food?",
+    "t": [
+      "friend",
+      "best-friend"
+    ],
+    "p": 2
+  },
+  {
+    "_": "TMSfb9axzsXyXX55u8XVB",
+    "q": "What's the craziest story your best friend has ever told you?",
+    "t": [
+      "friend",
+      "best-friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "3cwX_WDw7DvPpleKHZctg",
+    "q": "What's the best prank you and your close friend have ever pulled?",
+    "t": [
+      "friend",
+      "close-friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "d4huqxGpuAYWzXcj70ARL",
+    "q": "What's the best trip you've taken with your close friend?",
+    "t": [
+      "friend",
+      "close-friend"
+    ],
+    "p": 2
+  },
+  {
+    "_": "UQcWYhGhd_ctO0cQIayxP",
+    "q": "Who does your best friend go to for advice besides you?",
+    "t": [
+      "friend",
+      "best-friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "il-zxKktWL_37BOAjN6U9",
+    "q": "What is your best friend's favorite hobby?",
+    "t": [
+      "friend",
+      "best-friend"
+    ],
+    "p": 2
+  },
+  {
+    "_": "3_35sR5ZnUQWYBTC4Ir87",
+    "q": "What's the most embarrassing nickname your best friend has ever had?",
+    "t": [
+      "friend",
+      "embarrassing",
+      "best-friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "T_ePTLtsdf-wKlvaHccZF",
+    "q": "What's your best friend's biggest fear?",
+    "t": [
+      "friend",
+      "best-friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "JINvG8OLzCxufxaRUc4ED",
+    "q": "What's the best thing about your close friend?",
+    "t": [
+      "friend",
+      "close-friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "cNFsAn0QaqIuxm7M9qDux",
+    "q": "What's the worst thing about your close friend?",
+    "t": [
+      "friend",
+      "close-friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "zxnTI95Ba-QBww5RNtZR-",
+    "q": "What's the best book your best friend has ever read?",
+    "t": [
+      "friend",
+      "best-friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "DaXxWZLVzUD3bGjWNHrUv",
+    "q": "What's the best movie your best friend has ever seen?",
+    "t": [
+      "friend",
+      "best-friend"
+    ],
+    "p": 2
+  },
+  {
+    "_": "WrYchMX5nOybNlMTwPqD5",
+    "q": "What's the best restaurant your best friend has ever been to?",
+    "t": [
+      "friend",
+      "best-friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "ehLoYg_smpShAJLYKqzLG",
+    "q": "What's the worst job your best friend has ever had?",
+    "t": [
+      "friend",
+      "best-friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "QEziBFLFtmjyFt7XK2S2Y",
+    "q": "What's the most embarrassing thing your best friend has ever worn?",
+    "t": [
+      "friend",
+      "embarrassing",
+      "best-friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "kJTKziclIQN663OiaRQ8J",
+    "q": "What's the best advice you've ever given your best friend?",
+    "t": [
+      "friend",
+      "best-friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "4SJ9RPYspbn1yCrCI5Erw",
+    "q": "What's the most surprising thing your close friend has ever done for you?",
+    "t": [
+      "friend",
+      "close-friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "dlY6OGlDc70MmxzoLkbQL",
+    "q": "What's the most important thing you've ever done for your best friend?",
+    "t": [
+      "friend",
+      "best-friend"
+    ],
+    "p": 2
+  },
+  {
+    "_": "bim1E0Wsr5HlskADHxHMm",
+    "q": "What's the biggest dream your best friend has ever had?",
+    "t": [
+      "friend",
+      "best-friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "8BbUwyDfJ8d-lj4XosyFJ",
+    "q": "What's the most weirdest fact your best friend knows about you?",
+    "t": [
+      "friend",
+      "best-friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "vAa6VfW2gn5e4XuADtbM3",
+    "q": "What's the most weirdest fact your best friend wouldn't know about you?",
+    "t": [
+      "friend",
+      "best-friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "6Qmh_pORSyIZJpOBeLDKM",
+    "q": "What's the best song your best friend has ever heard?",
+    "t": [
+      "friend",
+      "best-friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "jSjcMA6KEkVpucoFqDz9K",
+    "q": "What's the best concert your best friend has ever been to?",
+    "t": [
+      "friend",
+      "best-friend"
+    ],
+    "p": 2
+  },
+  {
+    "_": "yMsGxh3coIP4VhVhEQnCa",
+    "q": "What's the best piece of art your best friend has ever seen?",
+    "t": [
+      "friend",
+      "best-friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "HWjM9abMyVv_E49KtNf0i",
+    "q": "What's the most meaningful gift you've ever given your best friend?",
+    "t": [
+      "friend",
+      "best-friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "cKcSfv3We-useVj-6e7mN",
+    "q": "What's the most meaningful gift your best friend has ever given you?",
+    "t": [
+      "friend",
+      "best-friend"
+    ],
+    "p": 2
+  },
+  {
+    "_": "JHGwXvJG9c7dWJpKFXMrv",
+    "q": "What's the best thing your best friend has ever said about you?",
+    "t": [
+      "friend",
+      "best-friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "CrLmhzk_mrT3Hut5K_aV6",
+    "q": "What's the best thing you've ever said about your best friend?",
+    "t": [
+      "friend",
+      "best-friend"
+    ],
+    "p": 2
+  },
+  {
+    "_": "7UEVzWvPjWrjG26ysAqWQ",
+    "q": "What's the most interesting thing your best friend has ever studied?",
+    "t": [
+      "friend",
+      "best-friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "n1GDIgGdUQTNeF34TCwXc",
+    "q": "What's the best memory you have with your best friend?",
+    "t": [
+      "friend",
+      "best-friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "gbtiWnJw2v9dd36NkBBIm",
+    "q": "What's the most important quality your best friend possesses?",
+    "t": [
+      "friend",
+      "best-friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "y-V5j5puMXR-HitKNxZbL",
+    "q": "What's the best quality you possess as a friend?",
+    "t": [
+      "friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "1HTkP8oyZyid5RK8zvveF",
+    "q": "What's the most important quality you look for in a friend?",
+    "t": [
+      "friend"
+    ],
+    "p": 2
+  },
+  {
+    "_": "SVhv1bOVJ6wJfjLksCAbW",
+    "q": "What's the most valuable lesson you've learned from a friend?",
+    "t": [
+      "friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "-RHmcw-sE-vPmGHXyev4f",
+    "q": "What made you become best friends with your closest friend?",
+    "t": [
+      "friend",
+      "best-friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "kWYqjHG6PnmZcUkaA5UH9",
+    "q": "What's your favorite inside joke that you share with your friend?",
+    "t": [
+      "friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "RBrYGYmonQ20zrrcnbSrD",
+    "q": "What's the most special memory you have with your best friend?",
+    "t": [
+      "friend",
+      "best-friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "xPkE87_CO7jnzulFUk_xv",
+    "q": "What's one thing that you would do for your friend without question?",
+    "t": [
+      "friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "dP9agzHJwNxNp-sWy_64G",
+    "q": "What's the biggest challenge you've overcome with your friend by your side?",
+    "t": [
+      "friend"
+    ],
+    "p": 2
+  },
+  {
+    "_": "U66my-q-hU6iESAuTxi-G",
+    "q": "What's the best way that your friend has supported you during a tough time?",
+    "t": [
+      "friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "krL3KpqYLlVSC79m8OZQD",
+    "q": "What's one thing that you wish you could change about your friendship with your friend?",
+    "t": [
+      "friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "kfUMON-x_xYGvgJhTgg4-",
+    "q": "What's one thing that you appreciate most about your friend?",
+    "t": [
+      "friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "vti4TapLRbFAuYi6jev1b",
+    "q": "What's one thing that your friend does that always makes you smile?",
+    "t": [
+      "friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "zBzqFqRsrnN3Z8kP0_uin",
+    "q": "What's the biggest accomplishment that you and your friend have achieved together?",
+    "t": [
+      "friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "PHAQfxxnDQKr51WMR_5Iq",
+    "q": "What's the biggest lesson you've learned from your friend?",
+    "t": [
+      "friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "-eA7dlgvDSj4LQKz6cron",
+    "q": "What's the best compliment your friend has ever given you?",
+    "t": [
+      "friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "hVEPOaenhREWc9oAz-wb8",
+    "q": "What's the biggest mistake you've made in your friendship and how did you overcome it?",
+    "t": [
+      "friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "17Rjcu33iPjI8B31TV1C3",
+    "q": "What's one thing you wish your friend knew about you?",
+    "t": [
+      "friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "5dYVj8VjCeQj3j0BztTaM",
+    "q": "What's the biggest dream you have together with your friend?",
+    "t": [
+      "friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "Y-PlgbbaoSgfLfcHhpC11",
+    "q": "What's the best advice your friend has ever given you about relationships?",
+    "t": [
+      "friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "xxyfvufpi9qzKHrnAUtzb",
+    "q": "What's the best advice your friend has ever given you about life in general?",
+    "t": [
+      "friend"
+    ],
+    "p": 2
+  },
+  {
+    "_": "fcGobHnG7sfR1DhewIJ8P",
+    "q": "What's one thing that you've learned from your friend that has changed your life?",
+    "t": [
+      "friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "NcwO2-Q8RU1uWNsYpDX6r",
+    "q": "What's one thing that you've taught your friend that has changed their life?",
+    "t": [
+      "friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "BhSsA6jsPyUtiIcslYnb9",
+    "q": "What's one thing you and your friend have in common that brought you together?",
+    "t": [
+      "friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "aIJeVGCyltUE7AxyoXAz-",
+    "q": "What's the most fun activity that you and your friend have done together?",
+    "t": [
+      "friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "wVXNkvnyCDY-uEq_9F2ET",
+    "q": "What's the most exciting adventure you and your friend have gone on?",
+    "t": [
+      "friend"
+    ],
+    "p": 2
+  },
+  {
+    "_": "un45mWagAqmVwdPtipOmq",
+    "q": "What's the most difficult challenge you and your friend have faced together?",
+    "t": [
+      "friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "Rl_UMtrUmjSAC4poyMiTV",
+    "q": "What's one thing you've always wanted to tell your friend but haven't?",
+    "t": [
+      "friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "Xla3qkt3iAzAJ0GA1DULQ",
+    "q": "What's the most embarrassing moment you've shared with your friend?",
+    "t": [
+      "friend",
+      "embarrassing"
+    ],
+    "p": 2
+  },
+  {
+    "_": "w0ky0lyUMws3lAnjnb-C9",
+    "q": "What's one thing that you and your friend have been through that no one else knows about?",
+    "t": [
+      "friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "97nb6myUMws3lAnjnbdF5",
+    "q": "What's one thing that you and your partner has done that your close friend doesn't know and vice-versa?",
+    "t": [
+      "friend",
+      "partner"
+    ],
+    "p": 1
+  },
+  {
+    "_": "WiZ0o39MRyiGN9xPpvvOC",
+    "q": "What's the most important thing your friend has taught you about yourself?",
+    "t": [
+      "friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "lNrZ24OUzch0u0Q3cV0Ag",
+    "q": "What's the most important thing your friend has taught you about life?",
+    "t": [
+      "friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "tHt-htYLPcHAeZKDQdoot",
+    "q": "What's one thing you and your friend disagree on but still love each other for?",
+    "t": [
+      "friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "7AtK6gmSj3AurmzwpE16H",
+    "q": "What's the most random thing that reminds you of your friend?",
+    "t": [
+      "friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "6EhzD5OAcvj2iX-jXbUbC",
+    "q": "What's the funniest thing your friend has ever said or done?",
+    "t": [
+      "friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "lD0q_AyNai8n6kTq4xWWy",
+    "q": "What's the most unique quality that your friend possesses?",
+    "t": [
+      "friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "lEW99_3jpuowVO2JYfsvD",
+    "q": "What's one thing that you love doing with your friend?",
+    "t": [
+      "friend"
+    ],
+    "p": 2
+  },
+  {
+    "_": "pQL-eqi2cbDHFvgIau6cg",
+    "q": "What's the most difficult decision you've made with your friend's help?",
+    "t": [
+      "friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "2mRczhq6LBoeVC_X6Kwd-",
+    "q": "What's one thing you admire most about your friend?",
+    "t": [
+      "friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "8AAYAsnie_cSOAKDvVo2E",
+    "q": "What's one thing you've always wanted to ask your friend but haven't?",
+    "t": [
+      "friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "GUcfv188HecA4NBFSC4EY",
+    "q": "What's one thing your friend has done for you that you will never forget?",
+    "t": [
+      "friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "Wq5P2o8WZzT8PKbUfw56k",
+    "q": "What's the best thing that you've learned about yourself through your friendship with your friend?",
+    "t": [
+      "friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "Q5Y-wmhFYkd5l_ZnCDIfY",
+    "q": "What's the best way to cheer up your friend when they're feeling down?",
+    "t": [
+      "friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "Tk70JOC0dP1oPPotUMowI",
+    "q": "What's the biggest risk you've taken with your friend's encouragement?",
+    "t": [
+      "friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "aaVH0FFhlfQ8lB3oCEcrB",
+    "q": "What's the biggest accomplishment that your friend has achieved?",
+    "t": [
+      "friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "LoKDBGYd34tnLnuQHyIXK",
+    "q": "What's the most important quality your friend possesses that you wish you had?",
+    "t": [
+      "friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "n7eM7r0EKJ-7EQX33fKM2",
+    "q": "What's the most important thing you've ever done for your friend?",
+    "t": [
+      "friend"
+    ],
+    "p": 2
+  },
+  {
+    "_": "rEZbr49JA33xapSXObPf5",
+    "q": "What's the most embarrassing thing your friend has ever done in front of their crush?",
+    "t": [
+      "friend",
+      "embarrassing"
+    ],
+    "p": 1
+  },
+  {
+    "_": "7a_Q8poKfwmNUvy9dIpf1",
+    "q": "What's the most embarrassing nickname your friend has ever had?",
+    "t": [
+      "friend",
+      "embarrassing"
+    ],
+    "p": 3
+  },
+  {
+    "_": "Z3tUaDp51bcnmFsPDjHgM",
+    "q": "What's the most embarrassing story your friend has ever told you about themselves?",
+    "t": [
+      "friend",
+      "embarrassing"
+    ],
+    "p": 1
+  },
+  {
+    "_": "kfge-OSLPQNvAE8YIAqAU",
+    "q": "What's the most embarrassing thing your friend has ever posted on social media?",
+    "t": [
+      "friend",
+      "embarrassing"
+    ],
+    "p": 3
+  },
+  {
+    "_": "yv9EFd3KQx7FOfj84SHAj",
+    "q": "What's the most embarrassing thing your friend has ever done while drunk?",
+    "t": [
+      "friend",
+      "embarrassing"
+    ],
+    "p": 1
+  },
+  {
+    "_": "w9-4ymOaitUH-MkUlpY0H",
+    "q": "What's the most embarrassing thing your friend has ever done while trying to impress someone?",
+    "t": [
+      "friend",
+      "embarrassing"
+    ],
+    "p": 3
+  },
+  {
+    "_": "eTCb43b2HM7q4ITMpwe55",
+    "q": "What's the most embarrassing thing your friend has ever eaten in front of you?",
+    "t": [
+      "friend",
+      "embarrassing"
+    ],
+    "p": 3
+  },
+  {
+    "_": "d-w8ZoLjksrL922ti5UzY",
+    "q": "What's the most embarrassing thing your friend has ever said to their parents?",
+    "t": [
+      "friend",
+      "embarrassing"
+    ],
+    "p": 3
+  },
+  {
+    "_": "ympSO0cCtMsiUPrvh03KQ",
+    "q": "What's the most embarrassing thing your friend has ever done while on a date?",
+    "t": [
+      "friend",
+      "embarrassing"
+    ],
+    "p": 3
+  },
+  {
+    "_": "FNDvvrKO_XLUY2drkb9IG",
+    "q": "What's the most embarrassing thing your friend has ever done in a public restroom?",
+    "t": [
+      "friend",
+      "embarrassing"
+    ],
+    "p": 1
+  },
+  {
+    "_": "lC67JQN4TZ1qtWBulW-MB",
+    "q": "What's the most embarrassing thing your friend has ever done while trying to dance?",
+    "t": [
+      "friend",
+      "embarrassing"
+    ],
+    "p": 3
+  },
+  {
+    "_": "-Uq8_X1PdxC2cwUGNoyP8",
+    "q": "What's the most embarrassing thing your friend has ever done while singing karaoke?",
+    "t": [
+      "friend",
+      "embarrassing"
+    ],
+    "p": 3
+  },
+  {
+    "_": "-OT-dkbOLuLRplt6fhrWT",
+    "q": "What's the most embarrassing thing your friend has ever done while playing a sport?",
+    "t": [
+      "friend",
+      "embarrassing"
+    ],
+    "p": 3
+  },
+  {
+    "_": "A2MyqcPt5V4_Dl7Sz7jyg",
+    "q": "What's the most embarrassing thing your friend has ever done while playing a video game?",
+    "t": [
+      "friend",
+      "embarrassing"
+    ],
+    "p": 3
+  },
+  {
+    "_": "6BddsUiYllCjGBClxDuS3",
+    "q": "What's the most embarrassing thing your friend has ever done while trying to cook?",
+    "t": [
+      "friend",
+      "embarrassing"
+    ],
+    "p": 3
+  },
+  {
+    "_": "c4Otk9fGKHT68lvuPXeIN",
+    "q": "What's the most embarrassing thing your friend has ever said during a job interview?",
+    "t": [
+      "friend",
+      "embarrassing"
+    ],
+    "p": 3
+  },
+  {
+    "_": "QOt4rR4hQiVBLKeb2S2fg",
+    "q": "What's the most embarrassing thing your friend has ever said during a presentation?",
+    "t": [
+      "friend",
+      "embarrassing"
+    ],
+    "p": 3
+  },
+  {
+    "_": "3orX_mU03ptVV3ES6DQvd",
+    "q": "What's the most embarrassing thing your friend has ever done while trying to fix something?",
+    "t": [
+      "friend",
+      "embarrassing"
+    ],
+    "p": 2
+  },
+  {
+    "_": "Ub4Gd2c0_6k-9h4jPxslA",
+    "q": "What's the most embarrassing thing your friend has ever done while trying to act cool?",
+    "t": [
+      "friend",
+      "embarrassing"
+    ],
+    "p": 3
+  },
+  {
+    "_": "e_QHQsK9wqUbjnGXnIVXw",
+    "q": "What's the most embarrassing thing your friend has ever done while trying to take a selfie?",
+    "t": [
+      "friend",
+      "embarrassing"
+    ],
+    "p": 3
+  },
+  {
+    "_": "zLa9MLn1Wp9stjhJmjggl",
+    "q": "What's the most embarrassing thing your friend has ever done while trying to take a group photo?",
+    "t": [
+      "friend",
+      "embarrassing"
+    ],
+    "p": 2
+  },
+  {
+    "_": "cUe5GCojW6EbN07fgAW_t",
+    "q": "What's the most embarrassing thing your friend has ever done while trying to take a cute photo with their pet?",
+    "t": [
+      "friend",
+      "embarrassing"
+    ],
+    "p": 3
+  },
+  {
+    "_": "5dwWJGM8dCofzKDUPduHu",
+    "q": "What's the most embarrassing thing your friend has ever done while trying to impress their crush's friends?",
+    "t": [
+      "friend",
+      "embarrassing"
+    ],
+    "p": 3
+  },
+  {
+    "_": "gmwCpu4XQagOMApsx6MdD",
+    "q": "What's the most embarrassing thing your friend has ever done while trying to impress their significant other's family?",
+    "t": [
+      "friend",
+      "embarrassing"
+    ],
+    "p": 1
+  },
+  {
+    "_": "UTdm4wD7XF2rsuge6DQn2",
+    "q": "What's the most embarrassing thing your friend has ever done while trying to impress their in-laws?",
+    "t": [
+      "friend",
+      "embarrassing"
+    ],
+    "p": 1
+  },
+  {
+    "_": "MB7A4dRK2zBepgmC4dMNa",
+    "q": "What's the most embarrassing thing your friend has ever done while trying to impress a celebrity?",
+    "t": [
+      "friend",
+      "embarrassing"
+    ],
+    "p": 3
+  },
+  {
+    "_": "wY6ni-16CELHJvfF_ZhFS",
+    "q": "If your friend and partner were both stranded on a deserted island, who would you choose to rescue first?",
+    "t": [
+      "friend",
+      "partner",
+      "partner-vs-friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "BvhCc4DcGXkjhh88q0_km",
+    "q": "If you had to choose between spending a weekend with your friend or a weekend with your partner, who would you choose?",
+    "t": [
+      "friend",
+      "partner",
+      "partner-vs-friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "DfMCZgSsd4YCYP3TiKhDX",
+    "q": "If your friend and partner both wanted to do something that conflicted with your plans, who would you choose to prioritize?",
+    "t": [
+      "friend",
+      "partner",
+      "partner-vs-friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "2OOYGYqvvkwARvOnMt9q8",
+    "q": "If your friend and partner were in a serious argument and you feel both are right, whose side would you take?",
+    "t": [
+      "friend",
+      "partner",
+      "partner-vs-friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "_XrXEOItk-565cscYFDIV",
+    "q": "If your friend and partner were both competing for the same job, who would you support?",
+    "t": [
+      "friend",
+      "partner",
+      "partner-vs-friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "n9Kvylz2o3Stg0Syk1I0F",
+    "q": "If your friend and partner both wanted to attend the same event, but you could only bring one, who would you choose?",
+    "t": [
+      "friend",
+      "partner",
+      "partner-vs-friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "KPuEwg8z0zErSUx__Wbgn",
+    "q": "If your friend and partner both wanted to travel to the same destination, but you could only go with one, who would you choose?",
+    "t": [
+      "friend",
+      "partner",
+      "partner-vs-friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "v35gFbueLCV7GJOgK4zhk",
+    "q": "If your friend and partner both gave you an ultimatum, who would you choose to comply with?",
+    "t": [
+      "friend",
+      "partner",
+      "partner-vs-friend"
+    ],
+    "p": 2
+  },
+  {
+    "_": "WSXFph-CNEqFljJT8chMw",
+    "q": "If your friend and partner were both in need of your help at the same time, who would you choose to assist first?",
+    "t": [
+      "friend",
+      "partner",
+      "partner-vs-friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "zvbiA_j9utXvdppKlq6ZG",
+    "q": "If your friend and partner were both at a party and you could only dance with one, who would you choose?",
+    "t": [
+      "friend",
+      "partner",
+      "partner-vs-friend"
+    ],
+    "p": 2
+  },
+  {
+    "_": "xi0dMdtuygLHix05SRzsV",
+    "q": "If your friend and partner both wanted to see a movie that you weren't interested in, who would you go with?",
+    "t": [
+      "friend",
+      "partner",
+      "partner-vs-friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "z3yZ2m-oDp8MQinw_rWYX",
+    "q": "If your friend and partner both wanted to play a game with you, but you could only choose one, who would you play with?",
+    "t": [
+      "friend",
+      "partner",
+      "partner-vs-friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "-YmBBavtAYGLLOLsZodDw",
+    "q": "If your friend and partner were both feeling sad, who would you console first?",
+    "t": [
+      "friend",
+      "partner",
+      "partner-vs-friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "nv1FWqHJQMUGBYkP8EU5g",
+    "q": "If your friend and partner both gave you conflicting advice, whose advice would you follow?",
+    "t": [
+      "friend",
+      "partner",
+      "partner-vs-friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "M6lj6CnFvTC3UBDb4_lnc",
+    "q": "If your friend and partner both wanted to have a serious conversation with you, but you could only talk to one, who would you choose?",
+    "t": [
+      "friend",
+      "partner",
+      "partner-vs-friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "J63OPdpEzAb23PVBMTSnI",
+    "q": "If your friend and partner were both going through a tough time and needed your support, who would you choose to comfort?",
+    "t": [
+      "friend",
+      "partner",
+      "partner-vs-friend"
+    ],
+    "p": 2
+  },
+  {
+    "_": "97SFsZel5CJjOrJTF3yf9",
+    "q": "If your friend and partner both wanted to cook dinner for you, who would you choose to prepare the meal?",
+    "t": [
+      "friend",
+      "partner",
+      "partner-vs-friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "6xKT1V4O3L6TMHyV-OKc5",
+    "q": "If your friend and partner both had a disagreement with you, but you could only resolve one conflict, whose issue would you address first?",
+    "t": [
+      "friend",
+      "partner",
+      "partner-vs-friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "WsvQuYg2kd_Iq1IrpV0wo",
+    "q": "If your friend and partner both wanted to go on a road trip with you, but you could only go with one, who would you choose?",
+    "t": [
+      "friend",
+      "partner",
+      "partner-vs-friend"
+    ],
+    "p": 2
+  },
+  {
+    "_": "saRmD-0J94pjqbOWg1Yye",
+    "q": "If your friend and partner both gave you a gift, but you could only accept one, whose gift would you choose?",
+    "t": [
+      "friend",
+      "partner",
+      "partner-vs-friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "_7voOtDSCBMRG-tknfLts",
+    "q": "If your friend and partner both wanted to buy the same item, but you could only purchase it for one of them, who would you choose?",
+    "t": [
+      "friend",
+      "partner",
+      "partner-vs-friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "22td_nTsXwXeEr2sWQLy1",
+    "q": "If your friend and partner both wanted to listen to a song that you didn't like, but you could only listen to one, whose music would you tolerate?",
+    "t": [
+      "friend",
+      "partner",
+      "partner-vs-friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "CLVuboQ-rzu03b8zaGCFG",
+    "q": "If your friend and partner both had an emergency and needed your immediate attention, who would you respond to first?",
+    "t": [
+      "friend",
+      "partner",
+      "partner-vs-friend"
+    ],
+    "p": 2
+  },
+  {
+    "_": "mocOY0hwJ0EJlvtRPoiVb",
+    "q": "If your friend and partner both wanted to go out for dinner, but you could only go with one, who would you choose?",
+    "t": [
+      "friend",
+      "partner",
+      "partner-vs-friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "dB9k9UFy3_arjwuo_-D81",
+    "q": "If your friend and partner both wanted to watch a TV show that you weren't interested in, who would you watch it with?",
+    "t": [
+      "friend",
+      "partner",
+      "partner-vs-friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "kHKjrVfYt8hzjHAF_IThH",
+    "q": "If your friend and partner both wanted to spend time with you, but you could only see one, who would you choose?",
+    "t": [
+      "friend",
+      "partner",
+      "partner-vs-friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "CYFZJPPD6sDaDfcTSEu2H",
+    "q": "If your friend and partner both wanted to talk to you on the phone, but you could only speak to one, who would you choose?",
+    "t": [
+      "friend",
+      "partner",
+      "partner-vs-friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "1PxDWizA0KMJK0kMMYKyv",
+    "q": "If your friend and partner both wanted to spend the night with you, but you could only share a bed with one, who would you choose?",
+    "t": [
+      "friend",
+      "partner",
+      "partner-vs-friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "1gpHqWx51gxkFj4CN5ARB",
+    "q": "If you needed someone to talk to about a personal issue, who would be your go-to friend of the opposite gender?",
+    "t": [
+      "friend",
+      "cross-gender"
+    ],
+    "p": 1
+  },
+  {
+    "_": "efPD_bVCb5Ut0sN6DKit1",
+    "q": "If you needed a shopping partner of the opposite gender for a special occasion, who would you call on?",
+    "t": [
+      "friend",
+      "partner",
+      "partner-vs-friend",
+      "cross-gender"
+    ],
+    "p": 3
+  },
+  {
+    "_": "P-Uelr3y1dRueoAl9j4EI",
+    "q": "If you needed someone of the opposite gender to accompany you to a wedding, who would you ask?",
+    "t": [
+      "friend",
+      "cross-gender"
+    ],
+    "p": 3
+  },
+  {
+    "_": "gTS8UhK5ch5tT33kDrsLu",
+    "q": "If you wanted to get advice on how to impress someone of the opposite gender, who would you consult?",
+    "t": [
+      "friend",
+      "cross-gender"
+    ],
+    "p": 1
+  },
+  {
+    "_": "pT6h0sASOjwN_3qLdEhQI",
+    "q": "If you wanted to watch a romantic movie with someone other than your partner, who would you invite?",
+    "t": [
+      "friend",
+      "partner",
+      "partner-vs-friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "CodzVkROrdSDP4452x_Kx",
+    "q": "If you needed someone to help you choose a gift for someone of the opposite gender, who would you ask?",
+    "t": [
+      "friend",
+      "cross-gender"
+    ],
+    "p": 3
+  },
+  {
+    "_": "ZuIq7Bw-6KD_CBqksTg5X",
+    "q": "If you wanted to learn more about fashion or makeup, who would you turn to for guidance?",
+    "t": [
+      "friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "kcs2SFMuo61uKuKL3tELb",
+    "q": "If you needed someone to help you move furniture or heavy objects, who would you call on?",
+    "t": [
+      "friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "3ZW3VtvmewfMMyXu3ul16",
+    "q": "If you needed someone to go on a trip with you, who would you choose?",
+    "t": [
+      "friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "1lNAxo96Do7Z9BMKxURWC",
+    "q": "If you wanted to attend a party but didn't have a date, who would you ask to go with you?",
+    "t": [
+      "friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "lB8wSe4L8IXqA4OvvqSBB",
+    "q": "If you wanted to go on a fun adventure, who would you call on?",
+    "t": [
+      "friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "cBn8jYqF3EhAbD_E68MqX",
+    "q": "If you needed someone to help you with your resume or job interview preparation, who would you ask?",
+    "t": [
+      "friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "kcSw55DS0TPh7fpTEyhBe",
+    "q": "If you wanted to learn a new skill, who would you turn to for guidance?",
+    "t": [
+      "friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "vbhOpIHXiu1QQkRTfGiIo",
+    "q": "If you wanted someone to go to the gym with you, who would you choose?",
+    "t": [
+      "friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "LahthKRajz4TnhdYzhDCw",
+    "q": "If you needed someone to help you with a DIY project, who would you call on?",
+    "t": [
+      "friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "xEl49UyFj5akM9uI2hT-1",
+    "q": "If you wanted to try a new restaurant or cuisine, who would you invite?",
+    "t": [
+      "friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "e6NUE9BqUqh1XMOgs5jUD",
+    "q": "If you needed someone to help you deal with a difficult family member, who would you ask?",
+    "t": [
+      "friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "9XQ_O3ZPosQK2FfmWZ3QJ",
+    "q": "If you wanted to go to a music concert, who would you ask to go with you?",
+    "t": [
+      "friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "DE2E3CiwwQ4Z8-niG9GQG",
+    "q": "If you needed someone to give you a ride somewhere, who would you call on?",
+    "t": [
+      "friend"
+    ],
+    "p": 2
+  },
+  {
+    "_": "ifvUw6pJqeK5hg_i_KCJm",
+    "q": "If you wanted someone to go on a road trip with you, who would you choose?",
+    "t": [
+      "friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "trS_wMAqBNtziyPi43HSA",
+    "q": "If you needed someone to help you plan a surprise party, who would you ask?",
+    "t": [
+      "friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "NpTFrrLgMc0Zi2VIvsiSf",
+    "q": "If you needed someone to give you a make-over, who would you choose?",
+    "t": [
+      "friend"
+    ],
+    "p": 2
+  },
+  {
+    "_": "lirK4glfdO6x0KAXmSOkB",
+    "q": "If you wanted to try a new hobby, who would you turn to for guidance?",
+    "t": [
+      "friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "pUjCWnY9kEFwjN6YIrQPj",
+    "q": "If you needed someone to help you with a romantic proposal, who would you ask?",
+    "t": [
+      "friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "tFlzDF39hqz3_CcxVykq0",
+    "q": "If you wanted to go on a spontaneous adventure, who would you call on?",
+    "t": [
+      "friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "5uvDZU0en27fc9RGGihyr",
+    "q": "If you needed someone to give you relationship advice, who would you consult?",
+    "t": [
+      "friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "kA4NsPU5aIJDGFvxIMWlp",
+    "q": "If you wanted to attend a cultural event, who would you invite?",
+    "t": [
+      "friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "jgbpHTft7YR2miC7WbdyF",
+    "q": "If you needed someone to help you with a pet-related issue, who would you ask?",
+    "t": [
+      "friend"
+    ],
+    "p": 2
+  },
+  {
+    "_": "E5roED6ew8P5YS_2rbugE",
+    "q": "If you wanted to learn a new language, who would you turn to for guidance?",
+    "t": [
+      "friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "f-f0TVphlY4pnjvRVONGA",
+    "q": "If you needed someone to help you with a personal makeover, who would you choose?",
+    "t": [
+      "friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "iGgjgICDUJbdpGsL4T2A0",
+    "q": "If you wanted to go on a fun-filled day out, who would you call on?",
+    "t": [
+      "friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "nSxYwqeKqoNavRzXpgZXH",
+    "q": "If you needed someone to help you with a tech-related issue, who would you ask?",
+    "t": [
+      "friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "HopCyoZWFS1gptCkAG6wo",
+    "q": "If you wanted to attend a sporting event, who would you invite?",
+    "t": [
+      "friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "V36lAJXkg6VjKnS1l7ZMX",
+    "q": "If you needed someone to help you deal with a difficult roommate or neighbor, who would you ask?",
+    "t": [
+      "friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "sq_23bt05-Y_85JJlCd2Z",
+    "q": "If you wanted to go on a relaxing spa day, who would you invite?",
+    "t": [
+      "friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "pNuKH5HkcDp8xGOPfAMWL",
+    "q": "If you needed someone to help you with a creative project, who would you call on?",
+    "t": [
+      "friend"
+    ],
+    "p": 2
+  },
+  {
+    "_": "SFR9lnW0gwgisEiNf-qqg",
+    "q": "If you wanted to go to a comedy show, who would you ask to go with you?",
+    "t": [
+      "friend"
+    ],
+    "p": 2
+  },
+  {
+    "_": "HSwfuOtjZ1aaov4BAuzou",
+    "q": "If you had to have a one night stand with one of your friends other than your partner, who would you choose?",
+    "t": [
+      "friend",
+      "naughty"
+    ],
+    "p": 1
+  },
+  {
+    "_": "d0gQ7hAPrCnQKbvz7e9Le",
+    "q": "Which of your friend's have you kissed the most?",
+    "t": [
+      "friend"
+    ],
+    "p": 2
+  },
+  {
+    "_": "MId1l3-N1UQUnqWpLePb9",
+    "q": "Which among your friends do you feel is the best kisser?",
+    "t": [
+      "friend"
+    ],
+    "p": 2
+  },
+  {
+    "_": "6UYwNJh0KCqFUuxdPXiTq",
+    "q": "What would you do if your best friend confessed their love for you?",
+    "t": [
+      "friend",
+      "best-friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "4HAtR8FOqxFogxeyiGg4y",
+    "q": "Would you date a friend if you found out they had feelings for you?",
+    "t": [
+      "friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "FuOwbs58aflU7KbeLpijc",
+    "q": "How would you react if a friend asked you out on a date?",
+    "t": [
+      "friend"
+    ],
+    "p": 1
+  },
+  {
+    "_": "eje_6o6LFywe8pptVgXWq",
+    "q": "What if a friend asked you to be their wingman/wingwoman for the night?",
+    "t": [
+      "friend",
+      "naughty"
+    ],
+    "p": 1
+  },
+  {
+    "_": "2HMB8ejGp1oLII9fnOd9N",
+    "q": "How would you handle a situation where a friend said they had a crush on your significant other?",
+    "t": [
+      "friend"
+    ],
+    "p": 2
+  },
+  {
+    "_": "VoC4OFmDDKyYnPaoYCZzA",
+    "q": "Would you ever consider dating a friend's ex?",
+    "t": [
+      "friend",
+      "naughty"
+    ],
+    "p": 3
+  },
+  {
+    "_": "qZE43pNFOf0eoLtok4Bx-",
+    "q": "What if a friend asked you to be their fake partner for a family event or work function?",
+    "t": [
+      "friend",
+      "partner",
+      "naughty"
+    ],
+    "p": 2
+  },
+  {
+    "_": "b98u0tBpb6EyU1Wt3s3p8",
+    "q": "How would you react if a friend asked you to be their bridesmaid/groomsmen but you had feelings for them?",
+    "t": [
+      "friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "FzwEU28bYRawnCNRtkJWI",
+    "q": "What would you do if a friend asked you to have a threesome with them and their significant other?",
+    "t": [
+      "friend",
+      "naughty"
+    ],
+    "p": 2
+  },
+  {
+    "_": "aDGycKU9H2I8PbpxLZUzz",
+    "q": "What would you do if a very close friend asked for sexual favors?",
+    "t": [
+      "friend",
+      "close-friend",
+      "naughty"
+    ],
+    "p": 2
+  },
+  {
+    "_": "vltTVJMN7i_YsOJNDISQ-",
+    "q": "Which of your friends would you choose as the godparent for your children?",
+    "t": [
+      "friend",
+      "close-friend"
+    ],
+    "p": 2
+  },
+  {
+    "_": "KUEo5X4P37mNqOv4zzdX6",
+    "q": "Which of your friends would be ready for a 69 with random strangers?",
+    "t": [
+      "friend",
+      "naughty"
+    ],
+    "p": 2
+  },
+  {
+    "_": "1HgG6aDqATwBEY0wlHjIe",
+    "q": "If you had to do a dip dance with a friend, who would you choose?",
+    "t": [
+      "friend"
+    ],
+    "p": 2
+  },
+  {
+    "_": "Yuw97--CSlHZpuz7N2a3T",
+    "q": "If you had accidentally hurt your close friend and they don't want to continue the friendship, how would you react?",
+    "t": [
+      "friend",
+      "close-fiend",
+      "close-friend"
+    ],
+    "p": 2
+  },
+  {
+    "_": "ghw97--0sLbZpwv7N8DgC",
+    "q": "If your partner calls you to try a new s*x position and your close friend calls to try a new coffee shop, who would you go with?",
+    "t": [
+      "friend",
+      "naughty",
+      "partner-vs-friend",
+      "partner",
+      "close-friend"
+    ],
+    "p": 2
+  },
+  {
+    "_": "NQQYM49TSX-twp4IgKlQH",
+    "q": "Do you have any 'friends with benefits'?",
+    "t": [
+      "friend",
+      "naughty"
+    ],
+    "p": 2
+  },
+  {
+    "_": "PBDKAqCppyE2fWA9tq8P5",
+    "q": "Which of your friends are very bad at following Google Maps/Apple Maps?",
+    "t": [
+      "friend"
+    ],
+    "p": 3
+  },
+  {
+    "_": "svJbq-_lh0hj4OetVH_tt",
+    "q": "Which all of your close friends do you think haven't watched p*rn till now?",
+    "t": [
+      "friend",
+      "naughty"
+    ],
+    "p": 2
+  }
+]

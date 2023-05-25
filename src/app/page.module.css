@@ -1,0 +1,48 @@
+
+.main {
+  height: 100vh;
+  width: 100vw;
+  background-color: antiquewhite;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  background:
+      conic-gradient(at 10% 50%,#0000 75%,#464e56 0),
+      conic-gradient(at 10% 50%,#0000 75%,#464e56 0) calc(1*10px) calc(3*10px),
+      conic-gradient(at 10% 50%,#0000 75%,#464e56 0) calc(2*10px) calc(1*10px),
+      conic-gradient(at 10% 50%,#0000 75%,#464e56 0) calc(3*10px) calc(4*10px),
+      conic-gradient(at 10% 50%,#0000 75%,#464e56 0) calc(4*10px) calc(2*10px),
+      conic-gradient(at 50% 10%,#0000 75%,#464e56 0) 0 calc(4*10px),
+      conic-gradient(at 50% 10%,#0000 75%,#464e56 0) calc(1*10px) calc(2*10px),
+      conic-gradient(at 50% 10%,#0000 75%,#464e56 0) calc(2*10px) 0,
+      conic-gradient(at 50% 10%,#0000 75%,#464e56 0) calc(3*10px) calc(3*10px),
+      conic-gradient(at 50% 10%,#0000 75%,#464e56 0) calc(4*10px) calc(1*10px),
+      #82afed;
+      background-size: 30px 30px;
+}
+
+.description {
+  background-color: white;
+  height: 50vh;
+  width: 80vw;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-around;
+  align-content: space-around;
+  flex-direction: column;
+  display: flex;
+  color: black;
+  font-size: xx-large;
+  text-align: center;
+  border-radius: 10px;
+  padding: 100px;
+  box-shadow: -1px 0px 38px 14px rgba(46, 46, 46, 0.938);
+-webkit-box-shadow: -1px 0px 38px 14px rgba(58, 58, 58, 0.881);
+-moz-box-shadow: -1px 0px 38px 14px rgba(52, 52, 52, 0.92);
+}
+
+.button {
+  width: 20vw;
+  height: 50px;
+  cursor: pointer;
+}
